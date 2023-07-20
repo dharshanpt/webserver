@@ -74,8 +74,3 @@ httpd.serve_forever()
  ## RESULT:
  The program is executed succesfully
 
-
-
-
-## RESULT:
-The program is executed succesfully
